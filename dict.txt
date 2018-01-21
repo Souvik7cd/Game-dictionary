@@ -23723,7 +23723,6 @@ fallow
 fallowed
 fallows
 falls
-FALSE
 falsely
 falser
 falsest
@@ -68085,7 +68084,8 @@ synced
 synch
 synched
 synching
-synchro
+synchronise
+synchronize
 synchros
 synchs
 syncing
@@ -71986,7 +71986,6 @@ trudger
 trudgers
 trudges
 trudging
-TRUE
 trueblue
 trueborn
 truebred
